@@ -10,7 +10,7 @@ Welcome to our deep fake image detection project! 🕵️‍♂️ This project 
 - Evaluation scripts for assessing model performance.
 
 ## Requirements
-- Python 3.x
+- Python 3.10
 - Flask
 - TensorFlow
 - OpenCV
