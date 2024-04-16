@@ -19,7 +19,7 @@ Welcome to our deep fake image detection project! 🕵️‍♂️ With the rise
 ## Let's Get Started!
 1. **Clone this Repository**: Just hit that green button and grab our code.
 2. **Install Dependencies**: A quick `pip install -r requirements.txt` will do the trick.
-3. **Get Those Models**: Download our pre-trained models or train your own if you're feeling adventurous.
+3. **Get Those Models**: Unfortunately, we can't provide the pre-trained models in this repository. You can either train your own models using our scripts or find pre-trained models from other sources. 
 
 ## How to Use
 1. **Train a Model**: Train one of our deep learning models on your dataset of real and fake images.
