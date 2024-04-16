@@ -21,7 +21,7 @@ Welcome to our deep fake image detection project! 🕵️‍♂️ This project 
 1. Clone this repository:
 
 ```
-git clone https://github.com/username/deep-fake-detection.git
+git clone https://github.com/karthick4156/deep-fake.git
 ```
 
 2. Install the dependencies:
